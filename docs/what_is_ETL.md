@@ -1,7 +1,5 @@
 # Mikä on ETL?
 
-![ETL-prosessi](../fotos/1.jpg)
-
 ETL (Extract, Transform, Load) on prosessi, jota käytetään datan siirtämiseen, muokkaamiseen ja lataamiseen eri järjestelmien välillä. Se on keskeinen osa data-analytiikkaa ja tietovarastointia, ja sen avulla organisaatiot voivat yhdistää ja hyödyntää dataa tehokkaasti päätöksenteossa.
 
 ---
