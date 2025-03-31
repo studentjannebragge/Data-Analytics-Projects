@@ -1,1 +1,1 @@
-# Data Analytics Real-World Projects in Python & R
+# Data Analytics Projects in Python & R
