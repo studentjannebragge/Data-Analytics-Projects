@@ -1,0 +1,26 @@
+# Python-väliaikaiset tiedostot
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook -tiedostot
+.ipynb_checkpoints/
+
+# Tietokantatiedostot
+*.sqlite
+
+# CSV- ja datatiedostot
+*.csv
+*.tsv
+*.json
+
+# Lokitiedostot
+*.log
+
+# Virtuaaliympäristöt
+venv/
+.venv/
+
+# Käyttöjärjestelmän väliaikaiset tiedostot
+.DS_Store
+Thumbs.db
