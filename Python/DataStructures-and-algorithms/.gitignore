@@ -1,0 +1,54 @@
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment directories
+venv/
+.env/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# IDE/editor directories and files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variable files
+.env
+
+# Generated files
+/dist/
+/build/
+*.egg-info/
+
+# Node.js dependencies
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore secrets
+secrets.yml
+
+# Custom ignore rules (if needed)
+# Add your own custom ignore rules here
