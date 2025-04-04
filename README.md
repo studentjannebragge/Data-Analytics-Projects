@@ -72,7 +72,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 If you have any questions or comments, feel free to reach out to the repository owner:
 
 - **Name:** Janne Bragge
-- **Email:** [Your Email]
+- **Email:** jannebragge@outlook.com
 
 Thank you for visiting the Data Analytics Projects repository. Happy analyzing!
 ```
