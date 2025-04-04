@@ -1,0 +1,8 @@
+langchain-experimental
+langchain-openai
+pandas
+numpy
+python-dotenv
+ipykernel
+tabulate
+openai

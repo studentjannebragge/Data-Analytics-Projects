@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.11">
+  <diagram name="Sivu-1" id="OGsLg_IE7mPrSHYRPhxX">
+    <mxGraphModel dx="1908" dy="1833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.457;exitY=-0.017;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-3" target="QRSkS4jt6dsI7ROs8SnK-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134.23529411764707" y="-523.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="467" y="-243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-3" value="Mobiilisovellus" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="-423" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-13" target="QRSkS4jt6dsI7ROs8SnK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-13" value="Oppimisalgoritmi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="-425.5" width="179" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-14" value="Tietokanta" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-466" width="193" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91.5" y="-350.1176470588234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465.7142857142858" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-15" value="Hallintajärjestelmä" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-225" width="151" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-16" value="Kirjanpito-ohjelmisto" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="-623" width="183" height="89" as="geometry" />
+        </mxCell>
+        <object label="Käyttäjä/Asiakas" Käyttäjä="" id="QRSkS4jt6dsI7ROs8SnK-19">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="-133" y="-498" width="35" height="75" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Ylläpitäjä" Käyttäjä="" id="QRSkS4jt6dsI7ROs8SnK-20">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="-133" y="-384" width="35" height="75" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-21" target="QRSkS4jt6dsI7ROs8SnK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Kirjanpitäjä" Käyttäjä="" id="QRSkS4jt6dsI7ROs8SnK-21">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="-133" y="-155" width="35" height="75" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-22" target="QRSkS4jt6dsI7ROs8SnK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="IT-tuki" Käyttäjä="" id="QRSkS4jt6dsI7ROs8SnK-22">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="-133" y="-265" width="35" height="75" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-20" target="QRSkS4jt6dsI7ROs8SnK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-19" target="QRSkS4jt6dsI7ROs8SnK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-12" target="QRSkS4jt6dsI7ROs8SnK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-12" target="QRSkS4jt6dsI7ROs8SnK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-12" value="Taustajärjestelmät &amp;amp; tautajärjestelmien palvelin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="-511" width="453" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-17" value="Autentikaatio" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="QRSkS4jt6dsI7ROs8SnK-12">
+          <mxGeometry x="163" y="139" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-18" value="Lokituspalvelu" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="QRSkS4jt6dsI7ROs8SnK-12">
+          <mxGeometry x="159" y="236" width="188" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-47" value="Kirjanpito-ohjelmisto" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="206.5" width="172.5" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-22.20001220703125" y="236.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Käyttäjä/Asiakas" Käyttäjä="" id="QRSkS4jt6dsI7ROs8SnK-48">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="-131" y="199" width="35" height="75" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-49" target="QRSkS4jt6dsI7ROs8SnK-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204.20001220703125" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-49" value="Mobiilisovellus" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="206.5" width="156" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QRSkS4jt6dsI7ROs8SnK-51" target="QRSkS4jt6dsI7ROs8SnK-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRSkS4jt6dsI7ROs8SnK-51" value="Kuitit" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-337" y="206.5" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
